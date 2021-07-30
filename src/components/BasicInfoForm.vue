@@ -5,7 +5,7 @@
       items-center
       justify-center
       self-center
-      border-t-2 border-l-2 border-gray-400
+      border-l-2 border-gray-400
     "
   >
     <div

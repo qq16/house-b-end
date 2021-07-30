@@ -15,6 +15,7 @@
       text-lg
       pr-12
       space-x-6
+      border-b-2 border-gray-400
     "
   >
     <section class="flex items-center space-x-2">
